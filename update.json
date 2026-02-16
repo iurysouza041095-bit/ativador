@@ -1,6 +1,6 @@
 {
   "latestVersionCode": 2,
-  "latestVersionName": "0.2",
-  "apkUrl": "https://github.com/iurysouza041095-bit/ativador/releases/download/app/app-debug.apk",
-  "changelog": "- Correção de bugs na instalação.\n- Melhoria na compatibilidade com Android 13."
+  "latestVersionName": "1.1",
+  "apkUrl": "https://github.com/iurysouza041095-bit/ativador/releases/download/v1.1/app-release.apk",
+  "changelog": "- Melhoria na performance.\n- Correção de bugs visuais na TV."
 }
