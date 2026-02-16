@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 1,
-  "latestVersionName": "0.1",
+  "latestVersionCode": 2,
+  "latestVersionName": "0.2",
   "apkUrl": "https://github.com/iurysouza041095-bit/ativador/releases/download/app/app-release.apk",
-  "changelog": "- Melhoria na performance.\n- Correção de bugs visuais na TV."
+  "changelog": "- Melhoria na performance.\n- Correção de bugs visuais na TV.(Mensagem update de teste ignorem para utilizar o ativador)"
 }
 
