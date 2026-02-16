@@ -1,1 +1,6 @@
-teste
+{
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1",
+  "apkUrl": "https://www.seu-dominio.com/ativador/ativador-v1.1.apk",
+  "changelog": "- Correção de bugs na instalação.\n- Melhoria na compatibilidade com Android 13."
+}
