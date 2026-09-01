@@ -1,8 +1,8 @@
 {
   "base": "http://dghw.yxmnklqbu.space/marketdatas/apk/uvFree/{ver}/uvFree_{ver}.apk",
-  "fallback": "5.3.1",
-  "maxMajor": 100,
-  "maxMinor": 100,
-  "maxPatch": 100,
+  "fallback": "0.0.0",
+  "maxMajor": 10,
+  "maxMinor": 10,
+  "maxPatch": 10,
   "sleepMs": 400
 }
